@@ -3,6 +3,8 @@ Bokeh examples using both HoverTool and TapTool
 
 Simple examples to reproduce a bug when HoverTool and TapTool are used together and TapTool attribute ``behavior='inspect'``
 
+See https://github.com/bokeh/bokeh/issues/4839
+
 Use conda to create the environment::
 
     $ conda env create
