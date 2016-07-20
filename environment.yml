@@ -1,0 +1,3 @@
+name: bokeh_app
+dependencies:
+- bokeh=0.12.0=py35_0
